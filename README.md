@@ -2,7 +2,7 @@
 
 A project in the domain of Natural Language Processing where I test different Sentiment Analysis models.
 
-The repository contains code along with datasets and results.
+The repository contains code along with datasets, results and the paper I wrote summarising my findings.
 
 'final script' jupyter notebook contains code for the model: AFINN, VADER, and Naive Bayes
 
