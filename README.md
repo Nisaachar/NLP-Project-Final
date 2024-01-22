@@ -1,6 +1,8 @@
 # NLP-Project-Final
-This is a repository for the NLP final project and contains the code along with datasets and results.
 
+A project in the domain of Natural Language Processing where I test different Sentiment Analysis models.
+
+The repository contains code along with datasets and results.
 
 'final script' jupyter notebook contains code for the model: AFINN, VADER, and Naive Bayes
 
